@@ -1,0 +1,25 @@
+.objective {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .objectiveheader {
+    border-radius: 25px;
+    height: 16rem;
+    width: 30%;
+    background-color: rgba(203, 96, 21, 1.0); 
+    margin: auto; 
+  }
+  
+.ourobjective{
+    color: white;
+    text-align: center;
+    padding-top: 10rem;
+}
+  .objectiveinfo {
+    color: white;
+    width: 50%;
+    margin: auto;
+  }
+  

@@ -1,0 +1,13 @@
+.Missioncontainer{
+    height: 40rem;
+    width: 95%;
+    margin: auto;
+    border-radius: 10px 140px 10px 140px;
+    background-color: rgba(103, 71, 51, 1.0);
+}
+
+.statement{
+    color: wheat;
+    padding-top: 20rem;
+    text-align: center;
+}
